@@ -19,3 +19,9 @@ if choice == "1":
     print("- T-Series")
     print("- Vevo")
     print("- NCS")
+
+    elif choice == "3":
+    print("\nRecommended Channels:")
+    print("- Khan Academy")
+    print("- Crash Course")
+    print("- freeCodeCamp")
