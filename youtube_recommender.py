@@ -41,9 +41,10 @@ while True:
 
     #Input validation for invalid choices
     else:
-        print("\nInvalid choice. Please run the program again.")
+        print("\nInvalid choice. Please input the correct choice.")
+        continue
 
-    again = input ("\nWould you like to choose another category? (yes/no): ").upper()
+    again = input ("\nWould you like to choose another category? (Y/N): ").upper()
 
     if again != "Y":
         print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
