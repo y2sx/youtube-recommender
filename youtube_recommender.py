@@ -12,7 +12,7 @@ while True:
     print("4. Sports")
 
     #User choice input
-    choice = input("\nEnter your choice (1-4): ")
+    choice = input("\nEnter your choice (1-4) or 'q' to quit: ")
 
     # Recommendations based on user choice
     if choice == "1":
@@ -38,6 +38,10 @@ while True:
         print("- ESPN")
         print("- FIFA")
         print("- NBA")
+
+    elif choice == "q" or choice == "Q":
+        print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
+        break
 
     #Input validation for invalid choices
     else:
