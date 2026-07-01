@@ -25,3 +25,9 @@ if choice == "1":
     print("- Khan Academy")
     print("- Crash Course")
     print("- freeCodeCamp")
+
+    elif choice == "4":
+    print("\nRecommended Channels:")
+    print("- ESPN")
+    print("- FIFA")
+    print("- NBA")
