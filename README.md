@@ -1,6 +1,6 @@
 ## Project Overview
 
-Our group had selected YouTube as the innovative technology, and in Part 2 our program will be a simple YouTube video reccommendation program.
+Our group had selected YouTube as the innovative technology, and in Part 2 our program will be a simple YouTube channel reccommendation program.
 
 This program will allow users to select a content category, and receive a YouTube channel reccommendation based on their interests, and selection.
 
