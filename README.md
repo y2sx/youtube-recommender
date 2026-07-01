@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 Our group had selected YouTube as the innovative technology, and in Part 2 our program will be a simple YouTube video reccommendation program.
 
@@ -15,7 +15,7 @@ This program will allow users to select a content category, and receive a YouTub
 - Input validation
 - Interactive command-line interface
 
-#Technologies we used
+## Technologies we used
 
 - Python 3
 - Git
