@@ -15,19 +15,22 @@ if choice == "1":
     print("- Jacksepticeye")
 
     elif choice == "2":
-    print("\nRecommended Channels:")
-    print("- T-Series")
-    print("- Vevo")
-    print("- NCS")
+        print("\nRecommended Channels:")
+        print("- T-Series")
+        print("- Vevo")
+        print("- NCS")
 
     elif choice == "3":
-    print("\nRecommended Channels:")
-    print("- Khan Academy")
-    print("- Crash Course")
-    print("- freeCodeCamp")
+        print("\nRecommended Channels:")
+        print("- Khan Academy")
+        print("- Crash Course")
+        print("- freeCodeCamp")
 
     elif choice == "4":
-    print("\nRecommended Channels:")
-    print("- ESPN")
-    print("- FIFA")
-    print("- NBA")
+        print("\nRecommended Channels:")
+        print("- ESPN")
+        print("- FIFA")
+        print("- NBA")
+
+    else:
+        print("\nInvalid choice. Please run the program again.")
