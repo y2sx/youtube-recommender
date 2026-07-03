@@ -53,14 +53,10 @@ while True:
         again = input("\nWould you like to choose another category? (Y/N): ").upper()
 
         if again == "Y" or again == "y":
-            continue
-
+            break
         elif again == "N" or again == "n":
             print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
             quit()
 
-        else:
+        else:   
             print("\nInvalid input. Please enter 'Y' or 'N'.")
-    if again != "Y":
-        print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
-        break
