@@ -61,3 +61,6 @@ while True:
 
         else:
             print("\nInvalid input. Please enter 'Y' or 'N'.")
+    if again != "Y":
+        print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
+        break
