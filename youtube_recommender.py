@@ -41,7 +41,7 @@ while True:
 
     elif choice == "q" or choice == "Q":
         print("\nThank you for using the YouTube Video Recommendation Assistant! Enjoy exploring the channels!")
-        break
+        quit()
 
     #Input validation for invalid choices
     else:
